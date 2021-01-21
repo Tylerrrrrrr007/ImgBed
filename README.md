@@ -1,6 +1,6 @@
 # ImgBed
 
-点击图片查看不了？用cdn加速的地址cdn.jsdelivr.net/gh/替换raw.githubusercontent.com
+## 点击图片查看不了？用cdn加速的地址cdn.jsdelivr.net/gh/替换raw.githubusercontent.com
 
 💣github是国外站，开启cdn加速服务会快很多，比如我用手机/电脑上传到github以后，对比一下github用户界面/github服务器/github经过cdn加速的链接：
 
