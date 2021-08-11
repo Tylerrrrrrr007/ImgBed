@@ -23,3 +23,6 @@
 如下
 
 ![标题](https://cdn.jsdelivr.net/gh/Tylerrrrrrr007/ImgBed/s_Mosaic_8_14_15.jpg)
+
+
+其他地址：来源油猴镜像，如raw.fastgit.org/
