@@ -7,9 +7,10 @@ https://**raw.githubusercontent.com**/Tylerrrrrrr007/ImgBed/main/Obsidian/-OK-br
 
 换成
 https://**cdn.jsdelivr.net/gh**/Tylerrrrrrr007/ImgBed@main/Obsidian/-OK-brightgreen.svg
-![jsdelivr](https://cdn.jsdelivr.net/gh/Tylerrrrrrr007/ImgBed@main/Obsidian/-OK-brightgreen.svg)
+![jsdelivr](https://cdn.jsdelivr.net/gh/Tylerrrrrrr007/ImgBed/Obsidian/-OK-brightgreen.svg)
+![jsdelivr@main](https://cdn.jsdelivr.net/gh/Tylerrrrrrr007/ImgBed@main/Obsidian/-OK-brightgreen.svg)
 
-## 其他地址：来源油猴镜像，如fastgit
+## 其他地址：来源油猴镜像，如fastgit（picgo+obsidian插件用这个）
 
 https://**raw.githubusercontent.com**/Tylerrrrrrr007/ImgBed/main/Obsidian/-OK-brightgreen.svg
 ![raw](https://raw.githubusercontent.com/Tylerrrrrrr007/ImgBed/main/Obsidian/-OK-brightgreen.svg)
