@@ -3,7 +3,8 @@
 
 https://hub.fastgit.org/521xueweihan/GitHub520
 总结：
-1. 打开host文件，地址`C:\Windows\System32\drivers\etc`，![](https://raw.fastgit.org/Tylerrrrrrr007/ImgBed/main/Obsidian/20220115195815.png)如果修改不了就右键属性-安全，将users的访问权限设为完全控制
+1. 打开host文件，地址`C:\Windows\System32\drivers\etc`
+![host文件](https://cdn.jsdelivr.net/gh/Tylerrrrrrr007/ImgBed/Obsidian/20220115195815.png)如果修改不了就右键属性-安全，将users的访问权限设为完全控制
 2. 在底部粘贴（host文件里的#行不能删除），保存
 3. win+r打开cmd，输入`ipconfig /flushdns`回车，注意有空格
 
